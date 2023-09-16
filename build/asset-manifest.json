@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cab36208.css",
+    "main.js": "/static/js/main.b09c444c.js",
+    "static/media/footer.jpg": "/static/media/footer.3f085ae89f8dd5c4124e.jpg",
+    "static/media/yasser.png": "/static/media/yasser.ae9353d17d5ebd7913d5.png",
+    "static/media/zahwa.png": "/static/media/zahwa.b34d43f330b1422d58ca.png",
+    "static/media/mahmoud.png": "/static/media/mahmoud.e9841f657521af10ddd1.png",
+    "static/media/nour.png": "/static/media/nour.3033db6f366ede6194c0.png",
+    "static/media/marzok.png": "/static/media/marzok.7f1da4314b1ba4100543.png",
+    "static/media/suhaila.png": "/static/media/suhaila.8636c803437c86fa7219.png",
+    "static/media/maya.png": "/static/media/maya.48072eef001930c67e63.png",
+    "static/media/twitter.png": "/static/media/twitter.6a06ae3099065e3c81e7.png",
+    "static/media/instagram.png": "/static/media/instagram.21a937146b48d049bba6.png",
+    "static/media/user (1).png": "/static/media/user (1).d54b5cea3dabfb92c990.png",
+    "static/media/instagram (1).png": "/static/media/instagram (1).a0ad71c28a5b6c3f9b66.png",
+    "static/media/twitter (1).png": "/static/media/twitter (1).8a3d7b8ee79c63c4181e.png",
+    "static/media/contact.png": "/static/media/contact.2cf800f5e5a2f3bc3e50.png",
+    "static/media/facebook-circular-logo.png": "/static/media/facebook-circular-logo.499f97dba409fd3818b3.png",
+    "static/media/facebook-logo.png": "/static/media/facebook-logo.d0338f3d4976d11149a0.png",
+    "index.html": "/index.html",
+    "main.cab36208.css.map": "/static/css/main.cab36208.css.map",
+    "main.b09c444c.js.map": "/static/js/main.b09c444c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab36208.css",
+    "static/js/main.b09c444c.js"
+  ]
+}
